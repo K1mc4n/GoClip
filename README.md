@@ -1,2 +1,2 @@
 # GoClip
-GoClips is a miniapp that functions to create and share video clips built on a base network.
+GoClips is a miniapp that functions to share video clips and download instant 
